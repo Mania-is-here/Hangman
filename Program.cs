@@ -61,7 +61,7 @@ namespace Hangman
             string word = Console.ReadLine();
             List<char> guessedLetters = new List<char>();
 
-            int maxLives = 7;
+            int maxLives = 9;
             int currentLives = maxLives;
 
             bool win = false;
