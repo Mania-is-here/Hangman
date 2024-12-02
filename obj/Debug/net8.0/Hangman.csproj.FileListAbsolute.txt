@@ -12,3 +12,4 @@ C:\Users\DeteringMani_s97vyh2\source\repos\Uebung\Hangman\obj\Debug\net8.0\refin
 C:\Users\DeteringMani_s97vyh2\source\repos\Uebung\Hangman\obj\Debug\net8.0\Hangman.pdb
 C:\Users\DeteringMani_s97vyh2\source\repos\Uebung\Hangman\obj\Debug\net8.0\Hangman.genruntimeconfig.cache
 C:\Users\DeteringMani_s97vyh2\source\repos\Uebung\Hangman\obj\Debug\net8.0\ref\Hangman.dll
+C:\Users\DeteringMani_s97vyh2\source\repos\Uebung\Hangman\obj\Debug\net8.0\Hangman.sourcelink.json
